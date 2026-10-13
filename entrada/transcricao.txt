@@ -1,0 +1,4 @@
+Transcrição automática (whisper-small), só o trecho inteligível:
+~36,4s  Pessoal, então, vamos juntos com o relatório e enviar esse leve puxão de orelha aí.
+~52,7s  Boa, boa, fechou.
+("Muito bom" em ~15s não aparece no espectro de voz: provável alucinação, ficou fora.)
